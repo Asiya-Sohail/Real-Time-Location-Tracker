@@ -1,0 +1,3 @@
+npm init -y //for make the package.json file 
+npm i express ejs //for install the express and ejs 
+npm i socket.io //for install the socket.io 
